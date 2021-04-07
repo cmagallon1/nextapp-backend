@@ -27,3 +27,4 @@
 /config/master.key
 public/coverage
 node_modules
+/.env.local
