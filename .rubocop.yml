@@ -1,0 +1,12 @@
+AllCops:
+  Exclude:
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'bin/**/*'
+    - 'coverage/**/*'
+
+Style/Encoding:
+  Enabled: false
+
+Layout/LineLength:
+  Max: 99
